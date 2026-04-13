@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Rajat Choudhary
 
 I am a Data Scientist at the **British Geological Survey (BGS)**, where I build applied machine learning systems for high-frequency sensor data, scientific discovery, and operational analytics. My work sits at the intersection of **machine learning, time-series modelling, scientific computing, and real-world deployment**.
