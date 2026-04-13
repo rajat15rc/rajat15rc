@@ -34,4 +34,4 @@ I am especially interested in projects involving:
 ## Connect
 - LinkedIn: [https://www.linkedin.com/in/rajat-choudhary-240962173/](#)
 - Google Scholar / ORCID: [https://orcid.org/my-orcid?orcid=0009-0006-0693-0219](#)
-- Email: [rajat15.rc"gmail.com](#)
+- Email: [rajat15.rc@gmail.com](#)
